@@ -1,0 +1,107 @@
+.container {
+    background-color: #e4f9f5;
+}
+
+h2 {
+    font-size: 3.3rem;
+    color: #66BFBF;
+    font-weight: 800;
+    font-family: Sacramento;
+}
+
+h3 {
+        font-size: 2rem;
+        color: #66BFBF;
+        font-weight: 800;
+        font-family: 'Bakbak One', cursive;
+}
+
+.h1_1 {
+    margin-top: 0;
+    font-family: 'Sacramento';
+    font-size: 562.5%;
+    color: #66BFBF;
+    line-height: 2;
+} 
+
+p {
+    font-family: 'Bakbak One', cursive;
+    color: #66BFBF;
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+.dev {
+    font-family: 'Bakbak One', cursive;
+    position: relative;
+    bottom: 100px;
+    font-size: 1.7rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #e4f9f5;
+}
+
+.top_box {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom_box {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 315px
+}
+
+.top-cloud {
+    position: relative;
+    left: 250px;
+    top: px;
+    margin-top: 50px;
+}
+
+.world {
+    position: relative;
+    height: 50%;
+    width: 50%;
+
+}
+
+.mountain {
+    position: relative;
+    bottom: 100px
+}
+
+.binary {
+    height: 350px;
+    width: 350px;
+    margin: 45px auto 45px;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: 15px;
+    border-color: burlywood;
+    border-style: 30%;
+    width: 17%;
+    margin: 75px auto 75px auto;
+}
+
+.chillis {
+    margin: 45px auto 45px;
+}
+
+.skill-heading {
+    position: relative;
+    top: 75px;
+}
